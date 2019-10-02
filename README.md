@@ -16,6 +16,7 @@ O projeto consiste em recriar a interface de usuario do aplicativo Nubank, inclu
   <img style="float: right;" src="https://github.com/benits/UI-Nubank-Clone/blob/master/Screenshot/nubank04.jpg" width="400" height="790">
 </div>
 
+**Você pode ver mais ScreenShots do app - [Clique e acesse agora!](https://github.com/benits/UI-Nubank-Clone/tree/master/Screenshot "Clique e acesse agora!")**
 
 # Como iniciar o aplicativo?
 
