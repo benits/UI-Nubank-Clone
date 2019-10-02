@@ -23,7 +23,7 @@ O projeto consiste em recriar a interface de usuario do aplicativo Nubank, inclu
 
 1. De um git clone em nosso repositório ou baixe o zip 
 
-2. Abra o CMD vá a até a pasta da raiz da aplicação e de execute 
+2. Abra o CMD vá a até a pasta da raiz da aplicação e execute 
 
 * ```o comando "yarn" ou "npm install"```.
 
