@@ -69,7 +69,7 @@ export default function Main() {
 
   return (
     <Container>
-      <Header translateY={translateY} />
+      <Header />
       <Content>
         <Menu translateY={translateY} />
         <PanGestureHandler
