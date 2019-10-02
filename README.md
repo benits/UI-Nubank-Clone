@@ -8,8 +8,12 @@ O projeto consiste em recriar a interface de usuario do aplicativo Nubank, inclu
 - Styled-components
 
 <div style="flex: 1; justifyContent: row; alignItem: space-around">
-  <img sstyle="float: left;" src="https://github.com/benits/easycarros-app-react-native/blob/master/examples/screenshots/10.jpg" width="400" height="790">     
-  <img style="float: right;" src="https://github.com/benits/easycarros-app-react-native/blob/master/examples/screenshots/01.jpg" width="400" height="790">
+  <img sstyle="float: left;" src="https://github.com/benits/UI-Nubank-Clone/blob/master/Screenshot/nubank01.jpg" width="400" height="790">     
+  <img style="float: right;" src="https://github.com/benits/UI-Nubank-Clone/blob/master/Screenshot/nubank02.jpg" width="400" height="790">
+</div>
+<div style="flex: 1; justifyContent: row; alignItem: space-around">
+  <img sstyle="float: left;" src="https://github.com/benits/UI-Nubank-Clone/blob/master/Screenshot/nubank03.jpg" width="400" height="790">     
+  <img style="float: right;" src="https://github.com/benits/UI-Nubank-Clone/blob/master/Screenshot/nubank04.jpg" width="400" height="790">
 </div>
 
 
