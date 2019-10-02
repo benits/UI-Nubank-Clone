@@ -4,7 +4,7 @@ import styled from 'styled-components/native';
 
 export const Container = styled.View`
   flex: 1;
-  background: #6d2177;
+  background: #8424a1;
   justify-content: center;
 `;
 
@@ -46,13 +46,33 @@ export const CardContent = styled.View`
 `;
 export const Title = styled.Text`
   font-size: 13px;
+  font-weight: bold;
+  color: #13b2ba;
+`;
+
+export const Strong = styled.Text`
+  font-weight: bold;
+  color: #13b2ba;
+`;
+
+export const Description = styled.Text`
+  font-size: 35px;
+  margin-top: 3px;
+  font-family: notoserif;
+  color: #13b2ba;
+`;
+
+export const SubDescription = styled.Text`
+  font-size: 13px;
+  font-weight: bold;
   color: #999;
 `;
-export const Description = styled.Text`
-  font-size: 32px;
-  margin-top: 3px;
-  color: #333;
+export const SubDescriptionValor = styled.Text`
+  font-size: 13px;
+  color: #54e320;
+  font-weight: bold;
 `;
+
 export const CardFooter = styled.View`
   flex-direction: row;
   justify-content: space-around;
@@ -65,5 +85,5 @@ export const Annotation = styled.Text`
   margin-right: 25px;
   justify-content: center;
   font-size: 12px;
-  color: #333;
+  color: #999e9e;
 `;

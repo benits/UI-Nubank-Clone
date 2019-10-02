@@ -20,6 +20,9 @@ import {
   Title,
   Description,
   DescriptionHeader,
+  Strong,
+  SubDescription,
+  SubDescriptionValor,
 } from './styles';
 
 export default function Main() {
@@ -89,8 +92,14 @@ export default function Main() {
               <DescriptionHeader>Cartão de Crédito</DescriptionHeader>
             </CardHeader>
             <CardContent>
-              <Title>Saldo disponivel</Title>
-              <Description>R$ 197.504,65</Description>
+              <Title>FATURA ATUAL</Title>
+              <Description>
+                R$ <Strong>5.504</Strong>,65
+              </Description>
+              <SubDescription>
+                Limite disponivel{' '}
+                <SubDescriptionValor>R$ 23.002,00</SubDescriptionValor>
+              </SubDescription>
             </CardContent>
             <CardFooter>
               <Icon
